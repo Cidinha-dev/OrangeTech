@@ -1,0 +1,85 @@
+dio 
+
+Há alguns recursos que permitem uma melhor experiência do usuário em termos de navegabilidade, os cookies e cache. Dentre as opções, analise a descrição de cada recurso e indique a afirmação INCORRETA.
+
+R) 
+o papel do cookie é fornecer o rastreamento dos usuários visto que o HTTP é stateless . as informações são mantidas no lado do cliente a fim de indentificar suas informações
+
+----------------------------
+Qual das afirmações é VERDADEIRA?
+
+R)
+O HTTP é um protocolo web que permite comunicação entre as pontas na internet ele possui duas principais  o HTTP1.1 e 2.0
+
+--------------------------
+Quais as principais atualizações de versões quando se trata do HTTP 1.1 e 2.0, respectivamente?
+
+R)
+introdução do CORS e Keep-alive no HTTP 1.1 na versão 2.0 a transferência das requisições via streming dentro de uma mesma conexxão TCP e a feture PUSH lado server/cliente
+
+-----------------------------
+O HTTP possui a propriedade Stateless. Marque a alternativa correta:
+
+R)
+servidor não mantem o estaado do cliente um reenvio de uma requiseção sera respondida pelo servidor normalmente
+
+---------------------
+Sabendo que uma conexão WebSocket utiliza toda a infraestrutura criada para o protocolo HTTP, indique qual afirmação relacionada ao seu funcionamento é uma afirmação CORRETA:
+
+R)
+atráves da troca de mensagens HTTP que o clente indica ao servidor do protocolo WebSocket por sua vez o servidor realiza o upgrade da conexão utilizando o WebSocket API 
+
+-----------------------
+Quem garante a autenticidade das chaves de outras entidades?
+
+R)
+CA certifications authority ou entidades certificadoras
+
+---------------------------------
+Uma mensagem HTTP é formada pelo Request ou Status line, Header Line, assim como a Entity. Dentro do Entity são definidos o entity header e entity body. Com relação a estes dois campos é correto afirmar que:
+
+R)
+o entity header possui os metadados relacionados as payload contido no entity body que está sendo enviado /recebido pelo servidor
+
+--------------------------------------
+Suponha uma solicitação bem-sucedida, do tipo Request realizada pelo cliente utilizando o método GET. Qual o statuscode da mensagem response recebida pelo cliente?
+
+R)
+200 OK
+
+---------------------------------------
+Em um cenário anterior ao protocolo Websocket, conexões HTTP eram utilizadas para suprir as demandas de aplicações baseadas em navegadores (browsers). Dentro deste contexto, indique os problemas existentes em uma conexão HTTP para cenário de comunicação constante com o servidor (caso dos web browsers app).
+
+R) 
+alto overhead conexões subjacentes e mapeamento das conexões por script no lado do cliente
+
+----------------------------------
+Por que proteger as mensagens HTTP com SSL?
+
+R)
+evitar fishinh e manter privacidade dos usuarios atraves da criptografia
+
+---------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

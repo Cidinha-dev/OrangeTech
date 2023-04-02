@@ -1,0 +1,46 @@
+"É a matriz onde encontramos a pilha de execução da exceção."
+Estamos falando de:
+
+Stack Trace
+-----------------------
+
+Sobre os atalhos da ferramenta de Debug no IntelliJ, julgue a alternativa correta:
+
+Debug(shift+F9)-Step Over(F8)- Step Into(F7)
+---------------------------
+
+Qual a principal funcionalidade da ferramenta de Debug?
+
+Depurar a execução linha a linha do programa
+-------------------------
+
+Qual o nome da view onde é exibido as variáveis?
+
+Variables
+----------------------------
+
+Analise as sentenças abaixo e julgue a alternativa correta acerca de Debugging:
+
+Pilha de Execução: Toda invocação de método é empilhada em uma estrutura de dados que isola a área de memória de cada um.
+----------------------------------------
+“Debugar o código” significa:
+
+depurar o codigo
+----------------------------------
+“Esta ferramenta provê acabamento de código como no editor, desta maneira é muito fácil introduzir qualquer expressão.”
+Estamos falando de qual ferramenta?
+
+Evaluate Expression
+-----------------------------------
+Como podemos usar o modo de Debug na IDE IntelliJ?
+
+executar o programa na opção debug as
+----------------------------------------
+Para indicar o ponto de parada para fazer o Debug, usamos:
+
+Breakpoinsts
+---------------------------------------
+Para interromper o Debug e fazer com que a execução prossiga até o final ou próximo breakpoint no IntelliJ:
+
+Resume Program(F9)
+

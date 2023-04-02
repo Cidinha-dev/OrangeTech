@@ -1,0 +1,49 @@
+String nome = "Camila";	
+int nome2 = Integer.parseInt(nome);
+
+Analisando a situação acima, sabemos que não é possível transformar a String nome em int nome2.
+Sabendo disso, qual Exception o programa irá apresentar?
+
+NumberFormatException
+-----------------------------
+Sobre a hierarquia das exceptions, julgue a alternativa INCORRETA:
+
+Io Exception estende de RuntimeException
+------------------------------
+Ao utilizar a classe FileReader, qual das exceções abaixo precisamos tratar ou lançar?
+
+FileNotFoundException
+-------------------------------
+Sobre as “Exceptions Customizadas”, assinale a alternativa INCORRETA:
+
+ Uma nova classe ....
+-------------------------------
+Das alternativas abaixo, qual delas é referente a uma “Checked Exception”:
+
+Se lançada, o compilador assegura que a execuçã verificada sera tratada (try/catch) ou programada (trouws)
+------------------------------------
+“É um evento que interrompe o fluxo normal de processamento de uma classe.”
+Estamos falando de:
+
+Exception
+----------------------------
+Assinale a alternativa que representa características apenas da cláusula “throws”:
+
+I. É usada na assinatura do método
+II. Necessária apenas para exceções checked.
+IV. Informa ao chamador do método que este método pode lançar uma das exceções listadas no escopo do método.
+--------------------------------
+"Usado pela JVM, serve para indicar quando existe algum problema em um recurso do programa, tornando a execução impossível de continuar."
+Na afirmativa acima, estamos falando de:
+
+Error
+------------------------------
+Das alternativas abaixo, qual delas é referente a uma “Unchecked Exception”:
+
+O compilador não verifica o codigo para ver se aexecução foi tratada ou programada
+---------------------------------
+I. Região onde se encontra o possível tratamento da exceção.
+II. Região onde se encontra o código que queremos verificar se irá ou não lançar uma exceção.
+III. Geralmente utilizado quando precisamos executar algum código independente se ocorrer exception ou não.
+
+catch,try,finally 
