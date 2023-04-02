@@ -10,3 +10,4 @@ São comumente classificados nas seguintes categorias:
 Padrões Criacionais : Abstract Factory, Builder, Factory Method, Prototype, Singleton .
 Padrões Comportamentais : Chain of Responsibility, Iterator, Observer, Strtegy , Template Method.
 Padrões Estruturais : Adapter, Bridge, Composite, Decorator, Facade , Flyweight, Proxy.
+z
